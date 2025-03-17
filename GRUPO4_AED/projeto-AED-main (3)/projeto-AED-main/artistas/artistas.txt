@@ -1,0 +1,66 @@
+[rock]
+artistas: Queen, Led Zeppelin, Nirvana
+
+[pop]
+artistas: Michael Jackson, Madonna
+
+[jazz]
+artistas: Miles Davis, John Coltrane
+
+[rap]
+artistas: Playboi Carti, Future, Travis Scott, Kanye West
+
+[Playboi Carti]
+músicas: Magnolia, Long Time, Location
+álbuns: Die Lit, Whole Lotta Red, Self Titled
+álbuns_imagens: artistas/rap/Die Lit.png, artistas/rap/Whole Lotta Red.png, artistas/rap/Self Titled.png
+
+[Future]
+músicas: Mask Off, Life Is Good, Low Life
+álbuns: DS2, High Off Life, The WIZRD
+álbuns_imagens: artistas/rap/DS2.png, artistas/rap/High Off Life.png, artistas/rap/The WIZRD.png
+
+[Travis Scott]
+músicas: Sicko Mode, Goosebumps, Antidote
+álbuns: Rodeo, Birds in the Trap Sing McKnight, Astroworld, Utopia
+álbuns_imagens: artistas/rap/Rodeo.png, artistas/rap/Birds in the Trap.png, artistas/rap/Astroworld.png
+
+[Kanye West]
+músicas: Stronger, Heartless, Runaway
+álbuns: Graduation, The College Dropout, My Beautiful Dark Twisted Fantasy
+álbuns_imagens: artistas/rap/Graduation.png, artistas/rap/The College Dropout.png, artistas/rap/My Beautiful Dark Twisted Fantasy.png
+
+[Queen]
+músicas: Don't Stop Me Now, Love of My Life, Another One Bites the Dust
+álbuns: Queen, A Night at the Opera Queen
+álbuns_imagens: artistas/rock/QueenAlbum.png, artistas/rock/A_Night_at_the_Opera_Queen.png
+
+[Led Zeppelin]
+músicas: Black Dog, The Rain Song, Good Times Bad Times
+álbuns: Led Zeppelin, Led Zeppelin IV
+álbuns_imagens: artistas/rock/Self Titled.png, artistas/rock/LedZeppelinIV.png
+
+[Nirvana]
+músicas: Rape me, Lithium, Oh Me
+álbuns: Nevermind, In Utero
+álbuns_imagens: artistas/rock/Nevermind.png, artistas/rock/InUtero.png
+
+[Michael Jackson]
+músicas: Billie Jean, Beat It, Smooth Criminal
+álbuns: Thriller, Bad
+álbuns_imagens: artistas/pop/Thriller.png, artistas/pop/Bad.png
+
+[Madonna]
+músicas: Hung Up, Crazy For You, 4 Minutes
+álbuns: Like A Virgin, Erotica
+álbuns_imagens: artistas/pop/LikeAVirgin.png, artistas/pop/Erotica.png
+
+[Miles Davis]
+músicas: So What, Blue in Green, All Blues
+álbuns: Kind of Blue, Tutu
+álbuns_imagens: artistas/jazz/Kind of Blue.png, artistas/jazz/Tutu.png
+
+[John Coltrane]
+músicas: Naima, Blue Monk, Impressions
+álbuns: Blue Train, A Love Supreme
+álbuns_imagens: artistas/jazz/Blue Train.png, artistas/jazz/A Love Supreme.png
