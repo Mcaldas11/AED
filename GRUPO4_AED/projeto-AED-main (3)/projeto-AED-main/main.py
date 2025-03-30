@@ -892,6 +892,10 @@ def mostrar_playlists():
     for widget in conteudo_frame.winfo_children():
         widget.destroy()
 
+def tocar_playlist():
+    global playlists
+    
+
     # Título
     titulo_label = ctk.CTkLabel(conteudo_frame, text="Playlists", font=("Roboto", 24, "bold"))
     titulo_label.pack(pady=10)
